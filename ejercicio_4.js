@@ -5,6 +5,6 @@ var ejercicio4 = function(arreglo){
         aux.push(arreglo[i] + arreglo[cont]);
         cont--;
     }
-
+    
     return aux;
 }
